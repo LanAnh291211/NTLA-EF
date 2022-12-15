@@ -1,0 +1,33 @@
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.csproj.AssemblyReference.cache
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.csproj.SuggestedBindingRedirects.cache
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.Properties.Resources.resources
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.Form1.resources
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.UI.Form2.resources
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.csproj.GenerateResource.cache
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.csproj.CoreCompileInputs.cache
+D:\Code Projects\NTLA\NTLA\bin\Debug\NTLA.exe.config
+D:\Code Projects\NTLA\NTLA\bin\Debug\NTLA.exe
+D:\Code Projects\NTLA\NTLA\bin\Debug\NTLA.pdb
+D:\Code Projects\NTLA\NTLA\bin\Debug\EntityFramework.dll
+D:\Code Projects\NTLA\NTLA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code Projects\NTLA\NTLA\bin\Debug\EntityFramework.xml
+D:\Code Projects\NTLA\NTLA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.csproj.CopyComplete
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.exe
+D:\Code Projects\NTLA\NTLA\obj\Debug\NTLA.pdb
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\NTLA.exe.config
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\NTLA.exe
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\NTLA.pdb
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\EntityFramework.dll
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\EntityFramework.xml
+D:\Code Projects\NTLA - Copy (2)\NTLA\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.csproj.AssemblyReference.cache
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.csproj.SuggestedBindingRedirects.cache
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.Properties.Resources.resources
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.Form1.resources
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.csproj.GenerateResource.cache
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.csproj.CoreCompileInputs.cache
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.csproj.CopyComplete
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.exe
+D:\Code Projects\NTLA - Copy (2)\NTLA\obj\Debug\NTLA.pdb
